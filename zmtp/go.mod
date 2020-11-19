@@ -1,3 +1,3 @@
-module github.com/zeromq/gomq/zmtp
+module github.com/GwiYeong/gomq/zmtp
 
 go 1.12
